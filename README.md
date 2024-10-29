@@ -12,4 +12,16 @@ Este é o frontend mobile da aplicação de biblioteca, desenvolvido com Expo e 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/joaoqueiroz-code/library-frontend-mobile.git```
+   git clone https://github.com/joaoqueiroz-code/library-frontend-mobile.git
+
+2. Entre no diretório do projeto:
+   ```bash
+   cd library-frontend-mobile
+
+3. Instale as dependências:
+   ```bash
+   npm install
+
+4. Configure as variáveis de ambiente da pasta constants.
+
+
