@@ -5,14 +5,14 @@ export default function Layout() {
   return (
     <Stack
       screenOptions={{
-        headerStyle: { backgroundColor: '#f4511e' },
+        headerStyle: { backgroundColor: '#4A90E2' },
         headerTintColor: '#fff',
         headerTitleStyle: { fontWeight: 'bold' },
       }}
     >
-      <Stack.Screen name="auth/login" options={{ headerShown: true }} />
-      <Stack.Screen name="auth/register" options={{ headerShown: true }} />
-      <Stack.Screen name="home/index" options={{ headerShown: true }} />
+      <Stack.Screen name="auth/login" options={{ headerShown: false }} />
+      <Stack.Screen name="auth/register" options={{ headerShown: false }} />
+      <Stack.Screen name="home/index" options={{ headerShown: false }} />
     </Stack>
   );
 }

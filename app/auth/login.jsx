@@ -15,7 +15,7 @@ export default function Login() {
       const userData = await login(email, password);
       console.log(userData);
       
-      Alert.alert('Login Successful', `Welcome, ${userData.name}`);
+      Alert.alert('Login Successful', `Welcome`);
       navigation.replace('home/index');
     } catch (error) {
       Alert.alert('Login Failed', error.response?.data?.message || 'An error occurred');
