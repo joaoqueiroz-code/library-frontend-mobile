@@ -4,7 +4,7 @@ Este é o frontend mobile da aplicação de biblioteca, desenvolvido com Expo e 
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
+- [Node.js](https://nodejs.org/) (versão 20 ou superior)
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
