@@ -24,4 +24,8 @@ Este é o frontend mobile da aplicação de biblioteca, desenvolvido com Expo e 
 
 4. Configure as variáveis de ambiente da pasta constants.
 
+5. Inicie o backend antes de iniciar o app.
+
+6. Para testar o aplicativo feito em react native / expo pode ser através do emulador Expo Go que pode ser baixado tanto na loja da Apple quanto na loja da google. No emulador vai ser necessário ler o QR Code do seu terminal e enfim ele era emular o App no seu dispositivo.
+
 
